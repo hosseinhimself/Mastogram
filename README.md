@@ -16,7 +16,7 @@
 
 **Get your Telegram chat ID**
 
-Paste the following link in your browser. Replace <API-access-token> with the API access token:
+Paste the following link in your browser. Replace "<API-access-token>" with the API access token:
 
     https://api.telegram.org/bot<API-access-token>/getUpdates?offset=0
     
