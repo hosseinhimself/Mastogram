@@ -1,10 +1,9 @@
 **What exactly does this project do?**
+This script was written to connect a telegram bot to a Mastodon account. In this bot, you must enter the login information of your Mastodon account.
 
-این اسکریپت برای اتصال یک بات تلگرام به اکانت ماستودون نوشته شده. شما در این بات میتونین اطلاعات ورود مربوط به اکانت ماستودون خودتون رو وارد کنید و اکانت خودتونو مدیریت کنید 
+(But now there is only the ability to receive notifications and send toots. Other features will be added ASAP.)
 
-(البته فعلا فقط قابلیت دریافت نوتیفیکیشن ها و ارسال بوق وجود داره. بقیه قابلیت ها به زودی اضافه خواهد شد.)
-
-لازم به ذکره که باید این اسکریپت رو روی سرور یا هاست شخصی و با بات تلگرامی که خودتون تعریف کردید پیاده کنید.
+You must run this script on a personal server or host with the Telegram bot that you defined.
 
 **Requirements**
 * Mastodon.py
