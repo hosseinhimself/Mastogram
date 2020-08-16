@@ -1,4 +1,5 @@
 **What exactly does this project do?**
+
 This script was written to connect a telegram bot to a Mastodon account. In this bot, you must enter the login information of your Mastodon account.
 
 (But now there is only the ability to receive notifications and send toots. Other features will be added ASAP.)
